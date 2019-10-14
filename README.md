@@ -42,7 +42,7 @@ $ git config --global user.email “nama_user”
 - Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
 - File README.md berhasil ditambahkan. 
 - $ git add README.md
-- ![Gitadd](C:/Users/user/Desktop/New%20folder/Capture3.PNG)
+- ![Gitadd](https://github.com/AjiRestu/gambar2/blob/master/github%208.png)
 
 ## Commit (Menyimpan perubahan ke database)
 - Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
