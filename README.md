@@ -12,7 +12,7 @@
 - CONFIG GLOBAL REPO
 $ git config --global user.name “nama_user”
 $ git config --global user.email “nama_user”
-- ![Gitconfig](https://github.com/AjiRestu/gambar2/blob/master/github%205.png)
+ ![Gitconfig](https://github.com/AjiRestu/gambar2/blob/master/github%205.png)
 
 ## Membuat Repo lokal
 - Buka direktory aktif, misal: d:\labs_pemrograman1 (buka menggunakan Windows Explorer) 
