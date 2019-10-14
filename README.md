@@ -22,7 +22,8 @@ $ git config --global user.email “nama_user”
 - $ cd latihan1
 - Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
 - direktory aktif menjadi: d:\labs_pemrograman1\latihan1
-- ![repolokal](https://github.com/AjiRestu/gambar2/blob/master/github%205.png)File README.md berhasil dibuat. 
+- ![repolokal](https://github.com/AjiRestu/gambar2/blob/master/github%206.png)
+- File README.md berhasil dibuat. 
 
 ## Membuat repo lokal 1.2
 - jalankan perintah git init,untuk membuat repo lokal
